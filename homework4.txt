@@ -1,0 +1,85 @@
+using System;
+
+class HelloWorld
+{
+    //1ci sual: Parametr kimi iki tam ədəd götürən və onların cəmini qaytaran metod
+    //yaradın.
+
+    //static void Main(string[] args)
+    //{
+    //    Console.WriteLine("please write first number:");
+    //    int num1 = int.Parse(Console.ReadLine());
+    //    Console.WriteLine("please write second number:");
+    //    int num2 = int.Parse(Console.ReadLine());
+    //    Console.WriteLine("lets add numbers");
+    //    int sum = num1 + num2;
+    //    myMethod(sum);
+
+    //}
+    //static void myMethod(int sum)
+    //{
+    //    Console.WriteLine(sum);
+    //}
+
+    //______________________________________________________________________
+
+
+    //2ci sual : Tam ədədlər arrayini parametr kimi götürən və arraydəki bütün ədədlərin
+    //ədədi ortasını qaytaran metod yazın.
+    // Bu suali yaza bilmedim 
+
+
+    //_______________________________________________________________________
+
+
+    //3cu sual : Parametr kimi float qəbul edən və onu ən yaxın tam ədədə
+    //yuvarlaqlaşdıran metod yazın.
+    //float tipini integere cevirse idim bu zaman sonundaki sifir tami silmis olacaqdi
+    //ona gorede Math.Round() emrinen istifade eledim bunu internetden tapmisam bu arada
+
+    //static void Main(string[] args)
+    //{
+    //    Console.WriteLine("please write number:");
+    //    float num = float.Parse(Console.ReadLine());
+
+    //    newMethod(num);
+    //}
+    //static void newMethod(float num)
+    //{
+
+    //    Console.WriteLine("Rounded value :" + Math.Round(num));
+    //}
+
+    //____________________________________________________________________________________
+
+    //4cu sual:Tam ədədi parametr kimi qəbul edən və ədədin cüt və ya tək olduğunu
+    //göstərən və geriyə boolean qaytaran metod yazın.
+    
+    //static void main(String[] args)
+    //{
+    //    //bool ile yaza bilmedim deye if else ile yazmaq istedim ve alinmadi :(
+    //    int num = int.Parse(Console.ReadLine());       
+        
+    //    if (num % 2 == 0)
+    //    {
+    //        Console.WriteLine("your number is even");
+    //    }
+    //    else
+    //    {
+    //        Console.WriteLine("your number is odd");
+    //    }
+    //    methodbyAdil(num);
+    //}
+    //static void methodbyAdil(int num)
+    //{
+        
+    //}
+
+    //_____________________________________________________________________________
+
+
+    //5ci sual: Parametr kimi boolean götürən və string qaytaran metod yaradın.
+    //Boolean doğrudursa, metod "Bəli", yanlışdırsa, "Xeyr" qaytarmalıdır.
+
+
+}
